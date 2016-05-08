@@ -1,0 +1,5 @@
+c:\users\alperen\documents\visual studio 2015\Projects\AdapterPattern\DatabaseConcreteImplementationProject\bin\Debug\DatabaseConcreteImplementationProject.dll.config
+c:\users\alperen\documents\visual studio 2015\Projects\AdapterPattern\DatabaseConcreteImplementationProject\bin\Debug\DatabaseConcreteImplementationProject.dll
+c:\users\alperen\documents\visual studio 2015\Projects\AdapterPattern\DatabaseConcreteImplementationProject\bin\Debug\DatabaseConcreteImplementationProject.pdb
+c:\users\alperen\documents\visual studio 2015\Projects\AdapterPattern\DatabaseConcreteImplementationProject\obj\Debug\DatabaseConcreteImplementationProject.dll
+c:\users\alperen\documents\visual studio 2015\Projects\AdapterPattern\DatabaseConcreteImplementationProject\obj\Debug\DatabaseConcreteImplementationProject.pdb
